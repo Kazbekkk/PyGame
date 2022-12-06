@@ -11,3 +11,6 @@ ___
 ___
 
 ![<alt text>](https://sun9-78.userapi.com/impg/iQsJiRQ9qLhqiskPu1wd9AiTG0ZKoDhq5apiog/pKon_P0DjOI.jpg?size=320x387&quality=96&sign=0ae3076caf329197dd7430d250697d33&c_uniq_tag=_5ers4XOgRC_3nLArWszsOUbFLLWxUZvjyIgn-mcTtw&type=album)
+
+
+git branch -d <название ветки> 
