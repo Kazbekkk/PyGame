@@ -28,4 +28,4 @@ if guess == number:
 
 if guess != number:
     number = str(number)
-    print('Увы. Я загадал число ' + number + '.')
+    print('Увы. Я загадал число ' + number + '')
